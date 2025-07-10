@@ -54,7 +54,7 @@
 ### 📫 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/satheesh-kumar-741659198/" target="_blank">
+  <a href="https://www.linkedin.com/in/satheesh08/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:satheesh11aug@gmail.com">
