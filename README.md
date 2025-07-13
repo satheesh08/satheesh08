@@ -13,7 +13,6 @@
 - 🎨 UI enthusiast: designing and building human-friendly interfaces in **Figma**  
 - 🚀 Obsessed with DevOps automation — deploying with **Copado** & **Flosum**  
 - 🧪 API tinkerer and test-driven thinker — I **love when multiple systems talk to each other**; Postman is always running
-- 🌉 _I’ve always wanted to bridge the gaps within the Salesforce ecosystem — between users and devs, orgs and platforms, data and design._
 
 ---
 
